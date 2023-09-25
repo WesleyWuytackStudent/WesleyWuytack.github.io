@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+    font-family: sans-serif;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    color: white;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+body{
+    text-align: center;
+}
